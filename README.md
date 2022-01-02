@@ -1,1 +1,1 @@
-# d3-vue-calendar
+# D3 Vue Calendar
